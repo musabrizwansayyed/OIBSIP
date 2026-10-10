@@ -1,0 +1,8 @@
+# Nmap 7.92 scan initiated Sat Oct 10 15:44:12 2026 as: nmap -oN "Security Analyst-Task 1-Basic Network Scanning/scan_basic.txt" 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000049s latency).
+Not shown: 999 closed tcp ports (conn-refused)
+PORT    STATE SERVICE
+631/tcp open  ipp
+
+# Nmap done at Sat Oct 10 15:44:12 2026 -- 1 IP address (1 host up) scanned in 0.04 seconds
